@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: c098c992a9f31bf4bb5c82954ea43e08
+timeCreated: 1496838532
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Building
+    100002: Front Door Frame
+    100004: Front Door Glass
+    100006: //RootNode
+    100008: Particle View 001
+    100010: Windows Glass
+    100012: Windows Jalousie
+    100014: Box002
+    100016: Cabinet PC Table
+    100018: Hallway Case
+    100020: Hallway Closed Drawers
+    100022: Hallway Mirror
+    100024: Hallway Open Drawers
+    100026: Kitchen Bar
+    100028: Kitchen Stool 000
+    100030: Kitchen Stool 001
+    100032: Kitchen Stool 002
+    100034: Kitchen Stool 003
+    100036: Kitchen Trash Can
+    100038: Living TV Table
+    100040: Hallway Wardrobe
+    100042: Living Sofa Long
+    100044: Living Sofa Small
+    100046: Living Table Little
+    100048: Living Tall Lamp 000
+    100050: Living Tall Lamp 001
+    100052: Chair_006
+    100054: BathSink
+    100056: BathSink 1
+    100058: Bathtub
+    100060: Toilet
+    100062: Bathroom BathSink
+    100064: Bathroom Bathtub
+    100066: Bed Covering
+    100068: Bed Mattress
+    100070: Bed Pillow 000
+    100072: Bed Pillow 001
+    100074: Bedroom Bed
+    100076: Bedroom Drawer 001
+    100078: Bedroom Drawer 002
+    100080: Bedroom Toilet
+    100082: Cabinet Chair
+    100084: Cabinet PC Keyboard
+    100086: Cabinet PC Screen
+    100088: Cabinet PC Trackpad
+    100090: Hallway TV Screen
+    100092: Hallway TV Table
+    100094: Kitchen Cabinets
+    100096: Kitchen Fridge
+    100098: Lamp 000
+    100100: Lamp 001
+    100102: Living Laptop
+    100104: Living Screen
+    100106: Living Sofa Big
+    100108: Living Tall Lamp 002
+    400000: Building
+    400002: Front Door Frame
+    400004: Front Door Glass
+    400006: //RootNode
+    400008: Particle View 001
+    400010: Windows Glass
+    400012: Windows Jalousie
+    400014: Box002
+    400016: Cabinet PC Table
+    400018: Hallway Case
+    400020: Hallway Closed Drawers
+    400022: Hallway Mirror
+    400024: Hallway Open Drawers
+    400026: Kitchen Bar
+    400028: Kitchen Stool 000
+    400030: Kitchen Stool 001
+    400032: Kitchen Stool 002
+    400034: Kitchen Stool 003
+    400036: Kitchen Trash Can
+    400038: Living TV Table
+    400040: Hallway Wardrobe
+    400042: Living Sofa Long
+    400044: Living Sofa Small
+    400046: Living Table Little
+    400048: Living Tall Lamp 000
+    400050: Living Tall Lamp 001
+    400052: Chair_006
+    400054: BathSink
+    400056: BathSink 1
+    400058: Bathtub
+    400060: Toilet
+    400062: Bathroom BathSink
+    400064: Bathroom Bathtub
+    400066: Bed Covering
+    400068: Bed Mattress
+    400070: Bed Pillow 000
+    400072: Bed Pillow 001
+    400074: Bedroom Bed
+    400076: Bedroom Drawer 001
+    400078: Bedroom Drawer 002
+    400080: Bedroom Toilet
+    400082: Cabinet Chair
+    400084: Cabinet PC Keyboard
+    400086: Cabinet PC Screen
+    400088: Cabinet PC Trackpad
+    400090: Hallway TV Screen
+    400092: Hallway TV Table
+    400094: Kitchen Cabinets
+    400096: Kitchen Fridge
+    400098: Lamp 000
+    400100: Lamp 001
+    400102: Living Laptop
+    400104: Living Screen
+    400106: Living Sofa Big
+    400108: Living Tall Lamp 002
+    2300000: Building
+    2300002: Front Door Frame
+    2300004: Front Door Glass
+    2300006: Windows Glass
+    2300008: Windows Jalousie
+    2300010: Box002
+    2300012: Cabinet PC Table
+    2300014: Hallway Case
+    2300016: Hallway Closed Drawers
+    2300018: Hallway Mirror
+    2300020: Hallway Open Drawers
+    2300022: Kitchen Bar
+    2300024: Kitchen Stool 000
+    2300026: Kitchen Stool 001
+    2300028: Kitchen Stool 002
+    2300030: Kitchen Stool 003
+    2300032: Kitchen Trash Can
+    2300034: Living TV Table
+    2300036: Hallway Wardrobe
+    2300038: Living Sofa Long
+    2300040: Living Sofa Small
+    2300042: Living Table Little
+    2300044: Living Tall Lamp 000
+    2300046: Living Tall Lamp 001
+    2300048: Chair_006
+    2300050: BathSink
+    2300052: BathSink 1
+    2300054: Bathtub
+    2300056: Toilet
+    2300058: Bathroom BathSink
+    2300060: Bathroom Bathtub
+    2300062: Bed Covering
+    2300064: Bed Mattress
+    2300066: Bed Pillow 000
+    2300068: Bed Pillow 001
+    2300070: Bedroom Bed
+    2300072: Bedroom Drawer 001
+    2300074: Bedroom Drawer 002
+    2300076: Bedroom Toilet
+    2300078: Cabinet Chair
+    2300080: Cabinet PC Keyboard
+    2300082: Cabinet PC Screen
+    2300084: Cabinet PC Trackpad
+    2300086: Hallway TV Screen
+    2300088: Hallway TV Table
+    2300090: Kitchen Cabinets
+    2300092: Kitchen Fridge
+    2300094: Lamp 000
+    2300096: Lamp 001
+    2300098: Living Laptop
+    2300100: Living Screen
+    2300102: Living Sofa Big
+    2300104: Living Tall Lamp 002
+    3300000: Building
+    3300002: Front Door Frame
+    3300004: Front Door Glass
+    3300006: Windows Glass
+    3300008: Windows Jalousie
+    3300010: Box002
+    3300012: Cabinet PC Table
+    3300014: Hallway Case
+    3300016: Hallway Closed Drawers
+    3300018: Hallway Mirror
+    3300020: Hallway Open Drawers
+    3300022: Kitchen Bar
+    3300024: Kitchen Stool 000
+    3300026: Kitchen Stool 001
+    3300028: Kitchen Stool 002
+    3300030: Kitchen Stool 003
+    3300032: Kitchen Trash Can
+    3300034: Living TV Table
+    3300036: Hallway Wardrobe
+    3300038: Living Sofa Long
+    3300040: Living Sofa Small
+    3300042: Living Table Little
+    3300044: Living Tall Lamp 000
+    3300046: Living Tall Lamp 001
+    3300048: Chair_006
+    3300050: BathSink
+    3300052: BathSink 1
+    3300054: Bathtub
+    3300056: Toilet
+    3300058: Bathroom BathSink
+    3300060: Bathroom Bathtub
+    3300062: Bed Covering
+    3300064: Bed Mattress
+    3300066: Bed Pillow 000
+    3300068: Bed Pillow 001
+    3300070: Bedroom Bed
+    3300072: Bedroom Drawer 001
+    3300074: Bedroom Drawer 002
+    3300076: Bedroom Toilet
+    3300078: Cabinet Chair
+    3300080: Cabinet PC Keyboard
+    3300082: Cabinet PC Screen
+    3300084: Cabinet PC Trackpad
+    3300086: Hallway TV Screen
+    3300088: Hallway TV Table
+    3300090: Kitchen Cabinets
+    3300092: Kitchen Fridge
+    3300094: Lamp 000
+    3300096: Lamp 001
+    3300098: Living Laptop
+    3300100: Living Screen
+    3300102: Living Sofa Big
+    3300104: Living Tall Lamp 002
+    4300000: Building
+    4300002: Front Door Frame
+    4300004: Windows Jalousie
+    4300006: Windows Glass
+    4300008: Front Door Glass
+    4300010: Box002
+    4300012: Cabinet PC Table
+    4300014: Kitchen Trash Can
+    4300016: Kitchen Bar
+    4300018: Kitchen Stool 001
+    4300020: Kitchen Stool 000
+    4300022: Kitchen Stool 002
+    4300024: Kitchen Stool 003
+    4300026: Living TV Table
+    4300028: Hallway Open Drawers
+    4300030: Hallway Mirror
+    4300032: Hallway Closed Drawers
+    4300034: Hallway Case
+    4300036: Living Table Little
+    4300038: Living Sofa Long
+    4300040: Living Sofa Small
+    4300042: Living Tall Lamp 000
+    4300044: Living Tall Lamp 001
+    4300046: Hallway Wardrobe
+    4300048: Chair_006
+    4300050: BathSink
+    4300052: Bathtub
+    4300054: Toilet
+    4300056: BathSink
+    4300058: Cabinet Chair
+    4300060: Bathroom Bathtub
+    4300062: Bedroom Toilet
+    4300064: Hallway TV Table
+    4300066: Living Sofa Big
+    4300068: Bedroom Drawer 001
+    4300070: Lamp 000
+    4300072: Living Tall Lamp 002
+    4300074: Bathroom BathSink
+    4300076: Hallway TV Screen
+    4300078: Kitchen Cabinets
+    4300080: Bedroom Drawer 002
+    4300082: Lamp 001
+    4300084: Cabinet PC Screen
+    4300086: Living Laptop
+    4300088: Living Screen
+    4300090: Cabinet PC Keyboard
+    4300092: Cabinet PC Trackpad
+    4300094: Bedroom Bed
+    4300096: Bed Mattress
+    4300098: Bed Pillow 000
+    4300100: Bed Pillow 001
+    4300102: Bed Covering
+    4300104: Kitchen Fridge
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
